@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Perkenalkan nama saya **Bernika Irnadianis Iffada**.\
 ✨ Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).\
 ✨ Lulusan Prodi Sistem Informasi di [Univeristas Bina Sarana Informatika](https://www.bsi.ac.id/ubsi/index.js).\  
-Memiliki pengalaman kerja sebagai Staff Administrasi selama 2 tahun 😄 
+Memiliki pengalaman kerja sebagai Staff Administrasi selama 2 tahun 😄 .\
 💬 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http://www.linkedin.com/in/bernika-iffada-b6585a221)ku ya.\
  👯 Atau bisa kunjungi profil [Instagram](https://www.instagram.com/bernika_iffada/)ku yaa   
 
