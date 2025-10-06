@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Perkenalkan nama saya **Bernika Irnadianis Iffada**.\
-✨ Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).\
-✨ Lulusan Prodi Sistem Informasi di [Univeristas Bina Sarana Informatika](https://www.bsi.ac.id/ubsi/index.js).\  
+Hai, Perkenalkan saya **Bernika Irnadianis Iffada**.\
+✨ Saya seorang **Core Banking System Analyst** di [PT Nusantara Bina Artha}(https://nbagroup.co.id/).\
+✨ Lulusan Sarjana Prodi Sistem Informasi di [Univeristas Bina Sarana Informatika](https://www.bsi.ac.id/ubsi/index.js).\  
 Memiliki pengalaman kerja sebagai Staff Administrasi selama 2 tahun 😄 .\
-💬 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http://www.linkedin.com/in/bernika-iffada-b6585a221)ku ya.\
- 👯 Atau bisa kunjungi profil [Instagram](https://www.instagram.com/bernika_iffada/)ku yaa   
+💬 Mari terhubung denganku di [Linkedin](http://www.linkedin.com/in/bernika-iffada-b6585a221)\
+ 👯 Atau bisa juga kunjungi profil [Instagram](https://www.instagram.com/bernika_iffada/)  
 
 
 <p>
