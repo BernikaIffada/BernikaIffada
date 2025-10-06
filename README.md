@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Hai, Perkenalkan saya **Bernika Irnadianis Iffada**.\
-✨ Saya seorang **Core Banking System Analyst** di [PT Nusantara Bina Artha}(https://nbagroup.co.id/).\
+✨ Saya seorang **Core Banking System Analyst** di [PT Nusantara Bina Artha](https://nbagroup.co.id/).\
 ✨ Lulusan Sarjana Prodi Sistem Informasi di [Univeristas Bina Sarana Informatika](https://www.bsi.ac.id/ubsi/index.js).\  
 Memiliki pengalaman kerja sebagai Staff Administrasi selama 2 tahun 😄 .\
 💬 Mari terhubung denganku di [Linkedin](http://www.linkedin.com/in/bernika-iffada-b6585a221)\
