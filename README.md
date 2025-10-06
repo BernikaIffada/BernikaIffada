@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hai, Perkenalkan saya **Bernika Irnadianis Iffada**\
+Perkenalkan saya **Bernika Irnadianis Iffada**\
 ✨ Saya seorang **Core Banking System Analyst** di [PT Nusantara Bina Artha](https://nbagroup.co.id/).\
-✨ Lulusan Sarjana Prodi Sistem Informasi di [Univeristas Bina Sarana Informatika](https://www.bsi.ac.id/ubsi/index.js).\  
+✨ Lulusan Sarjana Prodi Sistem Informasi di [Univeristas Bina Sarana Informatika](https://www.bsi.ac.id/ubsi/index.js).\ 
 Memiliki pengalaman kerja sebagai Staff Administrasi selama 2 tahun menjadikan saya pribadi yang lebih terorganisir dan teliti. Saat ini saya sudah berpengalaman menjadi seorang system analyst khususnya pada sistem perbankan. Saya memahami dengan baik alur pengembangan perangkat lunak, mengkomunikasikan inisiasi pengembangan kepada user dan juga kepada developer, melakukan testing, monitoring project pengembangan, dan juga mengevaluasi project.\
 
 
